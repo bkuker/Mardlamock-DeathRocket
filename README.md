@@ -4,7 +4,7 @@ Mardlamock-DeathRocket
 
 * Chamber
 	* Inner chamber length: 2cm
-		* **This can't be right?**
+		* **This can't be right? Guessing 43cm**
 	* Inner chamber diam: 4.34cm
 * Nozzle
 	* **I am assuming these were switched in the reddit post** 
@@ -28,8 +28,8 @@ Mardlamock-DeathRocket
 * Fuel density: 0.302g/cm3,
 * Fuel grain geometry
 	* regular bates grain
-	* **How Many?**
-	* **Outer Diameter?**
+	* **How Many? Guessing 4 from size & weight**
+	* **Outer Diameter? Guessing 4.34cm**
 	* Each 10cm long and with a 
 	* 1cm diam empty cilinder in the middle.
 
