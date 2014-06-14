@@ -25,6 +25,7 @@ Mardlamock-DeathRocket
 * Fuel grain geometry
 	* regular bates grain
 	* **How Many?**
+	* **Outer Diameter?**
 	* Each 10cm long and with a 
 	* 1cm diam empty cilinder in the middle.
 
