@@ -19,7 +19,10 @@ Mardlamock-DeathRocket
 ##Fuel
 
 * Sugar is regular tabletop sugar
-* 350g of it for real rocket
+* 1 KG Fuel
+	* 350g of it for real rocket
+		* **This must be just the sugar** 
+	* Assuming 650g KN 
 * o/f ratio is 65:35
 * Fuel density: 0.302g/cm3,
 * Fuel grain geometry
