@@ -11,6 +11,7 @@ Mardlamock-DeathRocket
 	* Nozzle throat diam: 1.25cm
 	* Nozzle exit diam: 4.34cm
 * Motor casing
+	* **Assuming 2 inch schedule 40** 
 	* 5cm diam, 32mm thick white pvc.
 		* **I think these are wrong, no PVC is that thick**
 * Motor length overall: 65cm,
