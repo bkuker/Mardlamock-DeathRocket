@@ -1,17 +1,22 @@
 Mardlamock-DeathRocket
 ======================
 
-#Analysis
 
-**Bottom Line: No you should not launch this.**
+
+#Analysis
 
 The motor pressure is flirting with the burst presure of the casing, it will probably explode.
 
 If somehow it does not CATO, the rocket is so overpowered that the airframe has no chance of surviving flight at nearly Mach 3.
 
-The rocket is surprisingly stable, but mainly because there is an unreasonable amount of fuel extending forward of the Cog.
+The rocket is surprisingly stable, but mainly because there is an unreasonable amount of fuel extending forward of the CoG.
 
 The only possible chance of survival is that OP's fuelmaking technique is so different from anyone elses that he ends up with a slow burning, low exponent, version of KNSU. This would be exciting but I consider it unlikely.
+
+**Bottom Line: No you should not launch this.**
+
+There is just too much fuel for the motor, and too much motor for the rocket.
+
 
 ##Motor
 <!--Begin motor DeathMotor HTML export from MotorSim-->
@@ -37,6 +42,12 @@ I had assumed the rocket would be understable from looking at the picture. Howev
 OpenRocket simulates a max velocity of 954m/s or 2114mph or **2.7 Mach**
 
 **NO Just no**. The finns will come off, the nose cone will fail, anything that does not come off will cacth fire.
+
+Acceleration is brutal, 100G+
+
+###Altitude
+
+About 3km. Accelleration is brutal, but empty rocket is so light and going so fast that deceleration is brutal too. 
 
 #Assumptions
 
