@@ -14,6 +14,11 @@ Mardlamock-DeathRocket
 	* **Assuming 2 inch schedule 40** 
 	* 5cm diam, 32mm thick white pvc.
 		* **I think these are wrong, no PVC is that thick**
+		* **Assuming***
+		* 5cm OD
+		* 4.34cm ID
+		* 3.2mm Thickness
+		* 4.34cm + .64mm = 5cm 
 * Motor length overall: 65cm,
 * Motor empty weight 550g approx
 
