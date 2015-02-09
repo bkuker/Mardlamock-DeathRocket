@@ -41,7 +41,7 @@ I had assumed the rocket would be understable from looking at the picture. Howev
 
 OpenRocket simulates a max velocity of 954m/s or 2114mph or **2.7 Mach**
 
-**NO Just no**. The finns will come off, the nose cone will fail, anything that does not come off will cacth fire.
+**NO Just no**. The fins will come off, the nose cone will fail, anything that does not come off will catch fire.
 
 Acceleration is brutal, 100G+
 
