@@ -1,7 +1,7 @@
 Mardlamock-DeathRocket
 ======================
 
-
+This is in response to https://www.reddit.com/r/rocketry/comments/27xm6s/should_i_launch/
 
 #Analysis
 
